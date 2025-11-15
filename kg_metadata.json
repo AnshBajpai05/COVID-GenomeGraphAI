@@ -1,0 +1,11 @@
+{
+  "num_nodes": 434,
+  "num_edges": 1206,
+  "node_types": {
+    "Variant": 58,
+    "Mutation": 304,
+    "Gene": 22,
+    "Lineage": 35,
+    "Clade": 15
+  }
+}

@@ -1,0 +1,26 @@
+
+Knowledge Graph Statistical Summary
+-----------------------------------
+Total nodes: 434 
+  Variants=58, Mutations=304, 
+  Genes=22, Lineages=35
+Total edges: 1206
+
+Top 5 Genes by Mutation Count:
+S        128
+ORF1a     73
+ORF1b     30
+N         18
+ORF8      16
+
+Average mutation frequency across variants: 2.88
+
+Observations:
+• The Spike (S) and ORF1a/b genes form the largest mutational hubs, consistent with known SARS-CoV-2 variability.
+• Conserved genes such as E, ORF6, ORF7a/b, and M exhibit fewer mutations, reflecting structural and functional stability.
+• The network topology follows a hierarchical Variant → Mutation → Gene pattern, capturing both shared and unique variant features.
+• Mutational density within S and ORF1a/b aligns with known selective pressures on spike binding and replication machinery.
+• The reconstructed knowledge graph can support downstream tasks such as mutation-based lineage classification or feature embedding.
+
+All visuals (heatmaps, barplots, centrality metrics, and subgraphs) and CSVs have been exported to:
+f:\AMRITA ALL SEMESTER\SEMESTER-4\BIO\labsheets\Project\results_extension
